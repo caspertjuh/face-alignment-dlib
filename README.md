@@ -20,9 +20,10 @@ python app.py inputfolder outputfolder
 ![Input](https://i.imgur.com/VmBWpdp.png)
 >Example output
 ![Output](https://i.imgur.com/3hQ5n8L.png)
-##### Dependencies:
+
+#### Dependencies:
 - [dlib](http://dlib.net/)
 - [opencv-python](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
 
-##### Known bugs:
+#### Known bugs:
 - Sometimes faces do not get detected and thus fail to get extracted.
