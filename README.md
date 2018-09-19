@@ -1,7 +1,7 @@
 Batch Face Alignment
 ===
 
-> This is a demo of detecting and aligning faces in batch images for processing.
+This is a script for detecting and aligning faces in batch images for processing.
 Alignment is a process of rotating a face to a vertically straight orientation, should the original face image is tilted.
 
 #### Setup:
@@ -16,9 +16,9 @@ python app.py inputfolder outputfolder
 ```
 
 #### Example:
->input
+>Example input
 ![Input](https://i.imgur.com/VmBWpdp.png)
->output
+>Example output
 ![Output](https://i.imgur.com/3hQ5n8L.png)
 ##### Dependencies:
 - [dlib](http://dlib.net/)
