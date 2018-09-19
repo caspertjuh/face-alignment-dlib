@@ -1,7 +1,7 @@
 Batch Face Alignment
 ===
 
-This is a script for detecting and aligning faces in batch images for processing.
+This is a script for detecting and aligning faces in images for batch processing.
 Alignment is a process of rotating a face to a vertically straight orientation, should the original face image is tilted.
 
 #### Setup:
