@@ -16,9 +16,9 @@ python app.py inputfolder outputfolder
 ```
 
 #### Example:
->Example input
+Example input
 ![Input](https://i.imgur.com/VmBWpdp.png)
->Example output
+Example output
 ![Output](https://i.imgur.com/3hQ5n8L.png)
 
 #### Dependencies:
