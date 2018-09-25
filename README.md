@@ -1,4 +1,4 @@
-Batch Face Alignment
+Batch Face Detection Alignment
 ===
 
 This is a script for detecting and aligning faces in images for batch processing.
